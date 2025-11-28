@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#e6f0ff"/>
+      <stop offset="1" stop-color="#f3f7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="24" fill="url(#g1)"/>
+  <g transform="translate(80,80)" fill="#c5d8ff">
+    <rect x="0" y="0" width="480" height="240" rx="12"/>
+    <rect x="520" y="0" width="560" height="240" rx="12"/>
+    <rect x="0" y="280" width="600" height="380" rx="12"/>
+  </g>
+  <text x="40" y="420" font-size="36" fill="#6b7280" font-family="Inter, Arial">تصميم متجر إلكتروني — معاينة</text>
+</svg>

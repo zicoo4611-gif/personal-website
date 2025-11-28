@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" fill="none">
+  <rect width="1200" height="800" rx="24" fill="#f0fff6"/>
+  <g transform="translate(100,120)" fill="#daf7e4">
+    <rect x="0" y="0" width="1000" height="560" rx="18"/>
+  </g>
+  <text x="60" y="520" font-size="36" fill="#2b6a3f" font-family="Inter, Arial">هوية بصرية — معاينة</text>
+</svg>

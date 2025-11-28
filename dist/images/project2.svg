@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" fill="none">
+  <rect width="1200" height="800" rx="24" fill="#fff8f0"/>
+  <g transform="translate(120,120)" fill="#ffe4c7">
+    <rect x="0" y="0" width="960" height="240" rx="12"/>
+    <rect x="0" y="280" width="440" height="340" rx="12"/>
+    <rect x="520" y="280" width="440" height="340" rx="12"/>
+  </g>
+  <text x="60" y="460" font-size="36" fill="#7b5e3e" font-family="Inter, Arial">تطبيق محمول — معاينة</text>
+</svg>
